@@ -2,7 +2,7 @@
 .hero {
     display: flex;
     flex-direction: column;
-    background-image: url('bannerfoto.jpg');
+    background-image: url('../../images/bannerfoto.jpg');
     height: 100vh;
     align-self: center;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@
     
 }
 
-nav {
+nav  {
     background: #fff;
     height: 80px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
